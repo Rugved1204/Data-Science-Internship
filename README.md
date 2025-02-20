@@ -9,8 +9,6 @@ The internship focuses on **Python for Data Science**, covering essential librar
 - 📈 **Matplotlib** – Data visualization  
 
 ## 📂 Repository Structure  
-
-📁 Data-Science-Internship
 - │── 📂  1 - Python Basics
 - │── 📂  2 - NumPy Operations
 - │── 📂  3 - Pandas Data Handling
