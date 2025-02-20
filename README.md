@@ -16,3 +16,6 @@ The internship focuses on **Python for Data Science**, covering essential librar
 - │── 📂  3 - Pandas Data Handling
 - │── 📂  4 - Matplotlib Visualization
 - │── 📂 More Updates...
+
+### Python Basics -
+https://drive.google.com/file/d/1-O4KmbvLWbI8SGGx4z4pKDeXl7Ax-6o_/view?usp=sharing
