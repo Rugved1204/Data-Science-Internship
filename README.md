@@ -11,8 +11,8 @@ The internship focuses on **Python for Data Science**, covering essential librar
 ## 📂 Repository Structure  
 
 📁 Data-Science-Internship
-│── 📂 Day 1 - Python Basics
-│── 📂 Day 2 - NumPy Operations
-│── 📂 Day 3 - Pandas Data Handling
-│── 📂 Day 4 - Matplotlib Visualization
-│── 📂 More Updates...
+- │── 📂  1 - Python Basics
+- │── 📂  2 - NumPy Operations
+- │── 📂  3 - Pandas Data Handling
+- │── 📂  4 - Matplotlib Visualization
+- │── 📂 More Updates...
